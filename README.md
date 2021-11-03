@@ -8,4 +8,6 @@ screen id: tiyub
 name: Ronald L.  
 
 **22:19**  
-useful git commands:  
+Steps to commit a file in GIT:  
+1. save a change
+git add example_file_name
