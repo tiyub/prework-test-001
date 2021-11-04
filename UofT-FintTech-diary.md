@@ -1,7 +1,6 @@
 ### 20211104
 
-Git notes are found at the FinTech Prework - Module 6 what is Git?  
-https://coding-bootcamp-fintech-prework.readthedocs-hosted.com/en/latest/modules/module-6-what-is-git/  
+Git notes are found at the FinTech Prework - [Module 6 what is Git?](https://coding-bootcamp-fintech-prework.readthedocs-hosted.com/en/latest/modules/module-6-what-is-git/)
 
 ## FinTech Websites and Online Magazines  
 From: [Module 8 - Ready Set FinTech](https://coding-bootcamp-fintech-prework.readthedocs-hosted.com/en/latest/modules/module-8-ready-set-fintech/)  
